@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grifftas
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Python, Javascript, Quantum computing, Blockchain technology & Cryptography
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on blockchain applications
